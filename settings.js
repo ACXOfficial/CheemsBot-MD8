@@ -2,11 +2,11 @@ const chalk = require("chalk")
 const fs = require("fs")
 
 //aumto presence update
-global.autoTyping = false //auto tying in gc (true to on, false to off)
-global.autoRecord = false //auto recording (true to on, false to off)
+global.autoTyping = true //auto tying in gc (true to on, false to off)
+global.autoRecord = true //auto recording (true to on, false to off)
 global.autoblockmorroco = false //auto block 212 (true to on, false to off)
 global.autokickmorroco = false //auto kick 212 (true to on, false to off) 
-global.antispam = false //auto kick spammer (true to on, false to off)
+global.antispam = true //auto kick spammer (true to on, false to off)
 
 
 //if api key expire, u can generate one from here: https://beta.openai.com/account/api-keys
@@ -21,27 +21,27 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['916909137213'] //ur owner number
-global.ownernomer = "916909137213" //ur owner number2
-global.ownername = "🦄Dream Guy Xeon" //ur owner name
-global.ytname = "YT: Xeon" //ur yt chanel name
-global.socialm = "GitHub: DGXeon" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.owner = ['94768480793'] //ur owner number
+global.ownernomer = "94768480793" //ur owner number2
+global.ownername = "💗Samith💤" //ur owner name
+global.ytname = "Contract👋" //ur yt chanel name
+global.socialm = "Wha group" //ur github or insta name
+global.location = "Sri lanka,walapane" //ur location
 
 //new
-global.botname = "Cheems Bot MD V8"
-global.ownernumber = '916909137213'
-global.ownername = '🦄드림 가이 Xeon'
-global.ownerNumber = ["916909137213@s.whatsapp.net"]
-global.ownerweb = "https://youtube.com/@DGXeon"
-global.websitex = "https://youtu.be/L_SIk59QeAU"
-global.wagc = "https://chat.whatsapp.com/Dc2qyVeK8JbJq8Gr3U1pKH"
-global.themeemoji = '🪀'
-global.wm = "Xeon Bot Inc."
-global.botscript = 'https://github.com/DGXeon/CheemsBot-MD6' //script link
+global.botname = "YAKA BOT MD"
+global.ownernumber = '94768480793'
+global.ownername = '💗Samith💤'
+global.ownerNumber = ["94768480793@s.whatsapp.net"]
+global.ownerweb = "http://wa.me/94768480793"
+global.websitex = "http://wa.me/17165374572"
+global.wagc = "https://chat.whatsapp.com/HqCiPGpWdkv0moDUcTpvL1"
+global.themeemoji = '☢'
+global.wm = "Maya Work Inc."
+global.botscript = 'https://chat.whatsapp.com/HqCiPGpWdkv0moDUcTpvL1' //script link
 global.packname = "Sticker By"
-global.author = "🦄드림 가이 Xeon\n\n"
-global.creator = "916909137213@s.whatsapp.net"
+global.author = "💗Samith💤\n\n"
+global.creator = "94768480793@s.whatsapp.net"
 global.prefa = ['','!','.','#','&']
 global.sessionName = 'session'
 global.hituet = 0
@@ -61,7 +61,7 @@ global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutp
 
 //messages
 global.mess = {
-    success: 'Here you go!', 
+    success: 'Here you go!😁', 
 }
 
 let file = require.resolve(__filename)
